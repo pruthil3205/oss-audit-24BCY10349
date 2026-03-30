@@ -1,6 +1,6 @@
 # Open-Source Audit: LibreOffice on Linux Mint 
 
-**Student Name:** KHUNT PRUTHILKHUMAT </br>
+**Student Name:** KHUNT PRUTHILKHUMAR RASIKBHAI </br>
 **Roll Number:** 24BCY10349 </br>
 **Course:** Open-Source Software  </br>
 **Date:** March 2026
